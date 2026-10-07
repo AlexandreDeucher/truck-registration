@@ -1,0 +1,6 @@
+@TruckRegistration_HostAddress = http://localhost:5228
+
+GET {{TruckRegistration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
